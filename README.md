@@ -1,7 +1,7 @@
 # Driverpass
 DriverPass system analysis and design
 
-**Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
+Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
 
 The DriverPass project was an initiative to design a comprehensive system for an online and offline driving school named DriverPass, owned by Liam. The envisioned system would allow users to register, schedule, cancel, and modify appointments for driving lessons. The system should manage data efficiently, track user activity, ensure compliance with DMV rules, and support various user roles with different levels of permissions. Moreover, it would enable the ability for users to choose from different lesson packages and for the owner to disable or modify these packages as needed.
 
